@@ -4,7 +4,7 @@ const projects = [
   {
     title: 'Portfolio Website',
     description: 'A personal portfolio built with React showcasing my skills and projects.',
-    link: 'https://github.com/CharuSingla/portfolio',
+    link: 'https://github.com/CharuSingla/My_PortFolio',
   },
   {
     title: 'Timer Challenge App',
