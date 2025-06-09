@@ -33,17 +33,17 @@ body {
 }
 
 body.light {
-  --section-bg: rgb(160, 144, 144);
-  --section-bg-alt: rgb(146, 130, 130);
+  --section-bg: rgb(192, 154, 154);
+  --section-bg-alt: rgb(154, 116, 116);
   --card-bg: #d3caca;
   background-color: #e4e4e4;
-  color: #3f0707;
+  color: #480606;
   --btn-nav-bg: #ede4e4;
-  --text-primary: #400e0e;
+  --text-primary: #3e0707;
   --text-secondary: #5d3f3f;
   --btn-primary-bg: #3b0106;
   --btn-primary-text: #ede1e1;
-  --btn-primary-hover: #582f2f;
+  --btn-primary-hover: #684343;
   --btn-outline-bg: transparent;
   --btn-outline-border: #41060b;
   --btn-outline-text: #320607;
