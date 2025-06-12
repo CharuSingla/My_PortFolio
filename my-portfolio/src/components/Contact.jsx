@@ -20,8 +20,8 @@ const Contact = () => {
     e.preventDefault();
 
     try {
-      await axios.post('http://localhost:5000/api/contact', form);
-      alert('You feel will be contacted soon. Thank You!');
+      await axios.post('https://my-portfolio-docw.onrender.com/api/contact', form);
+      alert('You will be contacted soon. Thank You!');
       formRef.current.reset();
       setForm({ name: '', email: '', message: '' });
     } catch (error) {
