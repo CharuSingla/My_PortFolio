@@ -1,6 +1,8 @@
 import React from 'react';
 import { FaTwitter, FaLinkedin, FaGithub } from 'react-icons/fa';
-import profileImage from '../assets/profile.png';
+// import profileImage from '../assets/profile.png';
+
+
 
 const HeroSection = () => {
   return (
@@ -38,7 +40,7 @@ const HeroSection = () => {
         </div>
 
         <div className="hero-image">
-          <img src={profileImage} alt="Charu Singla" />
+          <img src={"https://www.google.com/url?sa=i&url=https%3A%2F%2Fbealepark.org.uk%2Fanimals%2Fmammals%2Fcapybara%2F&psig=AOvVaw19a9DHrOETGek-NGEGaBsd&ust=1749794133469000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjjm62Z640DFQAAAAAdAAAAABAE"} alt="Charu Singla" />
         </div>
       </div>
     </div>
